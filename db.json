@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "post": "https://app.zu-app.com//postN.php",
+      "get": "https://app.zu-app.com/getN.php",
+      "server": "https://app.zu-app.com/server_none.png",
+      "user": "https://app.zu-app.com/user_ban.png"
+    }
+  ]
+}
